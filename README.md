@@ -1,4 +1,4 @@
 
-<p style="text-align: center; color: #ff69b4;">
+<h1 style="text-align: center; color: blue;">
  WHAT IS UP GANG
-</p>
+</h1>
